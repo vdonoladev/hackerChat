@@ -1,4 +1,4 @@
-const PRODUCTION_URL = 'https://hacker-chat-ew.herokuapp.com'
+const PRODUCTION_URL = 'https://vdonoladev-hackerchat.herokuapp.com'
 
 export default class CliConfig {
     constructor({ username, hostUri = PRODUCTION_URL, room }) {
